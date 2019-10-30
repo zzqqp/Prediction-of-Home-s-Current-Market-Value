@@ -1,7 +1,7 @@
 # Prediction-of-Home-s-Current-Market-Value
 Machine learning of the home price
 
-Description of fields contained in the training and test data sets
+Description features
 
  PropertyID: Unique ID for home
 
